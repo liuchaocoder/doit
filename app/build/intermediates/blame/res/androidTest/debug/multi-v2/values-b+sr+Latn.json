@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/chao.liu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ac8f4084ab8e259ac7aee1d0316c48e/res/values-b+sr+Latn/values-b+sr+Latn.xml",

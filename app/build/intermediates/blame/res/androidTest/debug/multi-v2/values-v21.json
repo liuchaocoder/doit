@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/chao.liu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/71b263e053b29633e11ca9a8ec299810/res/values-v21/values-v21.xml",

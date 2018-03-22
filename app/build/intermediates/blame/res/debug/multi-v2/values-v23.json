@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/chao.liu/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4cbb387947943e8eb9fccebbec1eafb3/res/values-v23/values-v23.xml",

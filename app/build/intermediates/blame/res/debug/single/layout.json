@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comment_item.xml",
-        "source": "/Users/chao.liu/android-architecture-components/BasicSample/app/src/main/res/layout/comment_item.xml"
+        "merged": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_item.xml",
+        "source": "/Users/chao.liu/doit/app/src/main/res/layout/product_item.xml"
     },
     {
-        "merged": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_item.xml",
-        "source": "/Users/chao.liu/android-architecture-components/BasicSample/app/src/main/res/layout/product_item.xml"
+        "merged": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comment_item.xml",
+        "source": "/Users/chao.liu/doit/app/src/main/res/layout/comment_item.xml"
     },
     {
-        "merged": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_fragment.xml",
-        "source": "/Users/chao.liu/android-architecture-components/BasicSample/app/src/main/res/layout/list_fragment.xml"
+        "merged": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_fragment.xml",
+        "source": "/Users/chao.liu/doit/app/src/main/res/layout/product_fragment.xml"
     },
     {
-        "merged": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_fragment.xml",
-        "source": "/Users/chao.liu/android-architecture-components/BasicSample/app/src/main/res/layout/product_fragment.xml"
+        "merged": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_fragment.xml",
+        "source": "/Users/chao.liu/doit/app/src/main/res/layout/list_fragment.xml"
     }
 ]

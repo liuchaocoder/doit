@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/chao.liu/doit/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/chao.liu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6326e8f9160eab9b73c9932b245ec7fd/res/values/values.xml",

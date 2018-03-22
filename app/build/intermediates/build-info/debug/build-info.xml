@@ -6,13 +6,13 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1521619649082"
+    timestamp="1521687758795"
     token="-6266567551777812609"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="8718" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1521619649082"
+        timestamp="1521687758795"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
