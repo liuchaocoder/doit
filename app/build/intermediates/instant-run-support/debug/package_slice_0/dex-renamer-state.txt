@@ -1,0 +1,4 @@
+#Wed Mar 21 10:36:59 CST 2018
+base.0=/Users/chao.liu/android-architecture-components/BasicSample/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
